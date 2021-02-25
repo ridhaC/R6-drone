@@ -1,0 +1,6 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:uno",
+    "port": "COM1",
+    "sketch": "sketch_feb24a.ino"
+}
